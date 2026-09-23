@@ -338,9 +338,6 @@ GOOGLE_API_KEY = "your-api-key-here"
 - **Web**: Streamlit
 - **Data**: pandas, numpy, matplotlib, seaborn
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
@@ -352,15 +349,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/AgenticDataAnalyst/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/AgenticDataAnalyst/discussions)
 
 ## ⭐ Star History
 
 If you find this project useful, please consider giving it a star!
 
----
 
-**Made by Otmane El Bourki**
+
+
